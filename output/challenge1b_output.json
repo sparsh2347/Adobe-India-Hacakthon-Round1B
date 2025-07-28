@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T23:11:53.564837"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Interactive forms: These contain fields ",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "the document to remain certified. For ex",
+      "importance_rank": 2,
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "interactive fillable forms. Or, they int",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Is the form fillable?",
+      "importance_rank": 4,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill in interactive forms",
+      "importance_rank": 5,
+      "page_number": 8
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": " Interactive forms: These contain fields that you can select and fill in . Use the interactive forms to test your knowledge of stories you saw on CNN iReport .",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": " A government agency creates a form with a form to remain certified . The form is required to be certified by a government agency to be a certified document .",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": " Interactive fillable fillable forms can be filled only by hand . Or they intentionally design a form that you can fill in only by using only your hand .",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": " CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery . Submit your photos to CNN iReport next week . Visit CNNimages.com/Travel next Wednesday for a new gallery of snapshots .",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": " Fill in interactive forms to fill up interactive forms . Fill in the interactive forms at the bottom of the interactive map . Visit the interactive form to find out more about how to fill in the form .",
+      "page_number": 8
+    }
+  ]
+}
