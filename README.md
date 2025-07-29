@@ -182,13 +182,13 @@ sudo apt install docker.io
 You can use our prebuilt image directly from Docker Hub:
 
 ```bash
-docker pull cocane/adobe-round-1
+docker pull sparshsinha12/adobe-round-1b
 ```
 
 ### Run with docker
 
 ```bash
-docker run cocane/adobe-round-1
+docker run sparshsinha12/adobe-round-1b
 ```
 
 **NOTE**:  Place your PDFs in the input/ folder. The structured JSON will be saved to output/.
